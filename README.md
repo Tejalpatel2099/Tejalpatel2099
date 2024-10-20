@@ -18,7 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejalpatel2099&show_icons=true&locale=en" alt="tejalpatel2099" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejalpatel2099&" alt="tejalpatel2099" /></p>
-### 💻 Projects
-- [Book Recommendation System](https://github.com/tejalpatel2099/book-recommendation) - A machine learning system for suggesting books based on reader preferences.
-- [Hospital Triage System](https://github.com/tejalpatel2099/hospital-triage) - A real-time system for prioritizing patients in emergencies.
-[![trophy](https://github-profile-trophy.vercel.app/?username=tejalpatel2099&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
