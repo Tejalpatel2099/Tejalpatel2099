@@ -1,20 +1,85 @@
-<h1 align="center">Hi 👋, I'm Tejal Patel</h1>
-<h3 align="center">A Passionate Software developer.</h3>
-
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejalpatel2099&label=Profile%20views&color=0e75b6&style=flat" alt="tejalpatel2099" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tejal-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejal-patel" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=700&color=00E1FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Tejal+Patel;Full-Stack+Developer+%7C+AI+Explorer;I+love+building+clean%2C+usable+software" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1117,100:0b1622&height=2" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejalpatel2099&show_icons=true&locale=en&layout=compact" alt="tejalpatel2099" /></p>
+<!-- Quick Intro -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="270" align="right"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejalpatel2099&show_icons=true&locale=en" alt="tejalpatel2099" /></p>
+<h3 align="left">🚀 About Me</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejalpatel2099&" alt="tejalpatel2099" /></p>
+- I build **scalable, user-friendly web apps** and love shipping polished UI/UX.  
+- Exploring **AI + Cloud** with a focus on reliability and performance.  
+- Open to **SWE internships & full-time** roles — happy to collaborate on impactful projects.  
+- Ask me about **React, TypeScript, Python, C++, FastAPI, PostgreSQL, AWS**.
+
+<p align="left">
+  <a href="https://komarev.com/ghpvc/?username=tejalpatel2099">
+    <img src="https://komarev.com/ghpvc/?username=tejalpatel2099&label=visits&color=00e1ff&style=flat" alt="profile views" />
+  </a>
+</p>
+
+---
+
+### 🌐 Connect
+<p>
+  <a href="https://linkedin.com/in/tejal-patel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tejalpatel2099@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tejalpatel2099%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧰 Tech I Use
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,js,ts,html,css,tailwind,bootstrap,python,cpp,nodejs,express,fastapi,postgres,mysql,mongodb,redis,docker,linux,git,github,aws" />
+</p>
+
+---
+
+### 📈 By the Numbers (Dark Mode)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejalpatel2099&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejalpatel2099&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejalpatel2099&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🧪 What I’m Building Now
+- A **full-stack app** with React + FastAPI + Postgres (auth, caching, CI/CD).
+- Lightweight **AI utilities** for summarization & code review.
+- **Performance dashboards** with clean, accessible components.
+
+---
+
+### 🗂️ Featured Projects
+- **Movie Insight Analyzer** – Flask + NLP + sentiment analysis  
+- **Book Recommender** – Content-based filtering with vector similarity  
+- **Hospital Triage Queue** – Priority queue simulation (C++)
+
+> Want details or demos? Ping me on LinkedIn 👆
+
+---
+
+<details>
+<summary><b>💬 Fun Dev Stuff</b></summary>
+
+- Favorite commit message: <i>“make it work, make it right, make it fast”</i>  
+- Best bug fix fuel: ☕ + good lo-fi
+</details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1117,100:0b1622&height=120&section=footer" />
+</p>
