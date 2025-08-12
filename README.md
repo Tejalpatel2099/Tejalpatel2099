@@ -40,8 +40,8 @@
 ---
 
 ### 🧰 Tech I Use
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,js,ts,html,css,tailwind,bootstrap,python,cpp,nodejs,express,fastapi,postgres,mysql,mongodb,redis,docker,linux,git,github,aws" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,python,cpp,nodejs,express,fastapi,postgres,mysql,mongodb,redis,docker,linux,git,github,aws&perline=8" />
 </p>
 
 ---
