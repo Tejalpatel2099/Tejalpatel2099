@@ -1,6 +1,6 @@
-<!-- ──────────────── ANIMATED HERO ──────────────── -->
+<!-- ──────────────── ANIMATED BUBBLE HERO ──────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=200&section=header&text=Tejal%20Patel&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20MS%20CS%20%40%20Seattle%20University&descSize=18&descAlignY=58" />
+  <img src="https://raw.githubusercontent.com/tejalpatel2099/tejalpatel2099/main/assets/bubbles.svg" width="100%" alt="animated bubble banner" />
 </p>
 
 <!-- Animated typing intro -->
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/tejalppatel/)">
+  <a href="https://www.linkedin.com/in/tejalppatel/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tejalpatel2099@gmail.com">
@@ -106,7 +106,7 @@
 | ⚡ **Redis-Style Key-Value Store** | In-memory key-value store built from scratch — networking, command parsing, and core data structures. | `C++` `Sockets` `Data Structures` |
 | 🖼️ **Image Transformation API** | Async job-based REST API for image processing with a full automated test suite. | `FastAPI` `Pillow` `Python` `pytest` |
 
-> 💬 Want a walkthrough or demo of any of these? **Ping me on LinkedIn!**
+> 💬 Want a walkthrough or demo of any of these? **[Ping me on LinkedIn!](https://www.linkedin.com/in/tejalppatel/)**
 
 <!-- Animated divider -->
 <p align="center">
