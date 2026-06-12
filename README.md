@@ -1,6 +1,6 @@
-<!-- ──────────────── ANIMATED BUBBLE HERO ──────────────── -->
+<!-- ──────────────── ANIMATED HERO ──────────────── -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tejalpatel2099/tejalpatel2099/main/assets/bubbles.svg" width="100%" alt="animated bubble banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,50:8b5cf6,100:ec4899&height=250&text=Tejal%20Patel&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%7C%20MS%20CS%20%40%20Seattle%20University&descSize=20&descAlignY=75&stroke=8b5cf6&strokeWidth=1" />
 </p>
 
 <!-- Animated typing intro -->
