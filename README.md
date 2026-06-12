@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tejal-patel">
+  <a href="(https://www.linkedin.com/in/tejalppatel/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tejalpatel2099@gmail.com">
