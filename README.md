@@ -40,8 +40,8 @@
   <tr>
     <td width="55%" valign="top">
       <h3>Hey there, I'm Tejal! 👋</h3>
-      <p>I am a passionate <b>Software Engineer</b> with a strong foundation in building scalable, production-ready applications. Currently, I am pursuing my <b>MS in Computer Science</b> at Seattle University (Class of 2026). My technical expertise lies at the intersection of full-stack development, AI, and cloud infrastructure.</p>
-      <p>In my previous roles as a SWE Intern at Medfilo and Referrio, I honed my skills in developing healthcare mobile apps and high-performance frontends. I also enjoy sharing knowledge and currently serve as a **Teaching Assistant for Cloud Computing**, where I guide students through Kubernetes, Docker, and AWS.</p>
+      <p>I am a passionate <b>Software Engineer</b> with a strong foundation in building scalable, production-ready applications. I graduated with my <b>MS in Computer Science</b> from Seattle University (Class of 2026). My technical expertise lies at the intersection of full-stack development, AI, and cloud infrastructure.</p>
+      <p>In my previous roles as a SWE Intern at Medfilo and Referrio, I honed my skills in developing healthcare mobile apps and high-performance frontends. I also enjoy sharing knowledge and served as a **Teaching Assistant for Cloud Computing**, where I guided students through Kubernetes, Docker, and AWS.</p>
       <p>I am always eager to collaborate on innovative projects and am actively seeking <b>New Grad SWE roles</b> where I can leverage my skills to build impactful software.</p>
     </td>
     <td width="45%" align="center">
@@ -75,11 +75,11 @@
 | Project | Description | Key Tech |
 | :--- | :--- | :--- |
 | **🎙️ MockUp — AI Mock Interview Coach** | A SaaS platform that conducts AI-powered mock interviews with real-time voice input and personalized feedback. Fully deployed on Azure with OAuth login. | `Blazor Server`, `ASP.NET Core 8`, `C#`, `OpenAI GPT-4o mini`, `MySQL`, `MongoDB Atlas`, `Azure` |
-| **💳 Credify — Event-Driven Credit Platform** | Cloud-native credit platform built as event-driven microservices with asynchronous messaging and container orchestration. | `Spring Boot`, `Kafka`, `Kubernetes`, `Docker`, `PostgreSQL` |
+| **📱 MockUp Mini — iOS Companion App** | SwiftUI companion app for MockUp: interview question bank, timed practice sessions and saved history, with offline-first networking. | `Swift`, `SwiftUI`, `SwiftData`, `async/await` |
 | **🎬 StreamHub — Microservices Streaming Platform** | Streaming platform with three distinct microservices and an admin analytics dashboard featuring live performance charts. | `Spring Boot`, `React`, `Vite`, `Recharts`, `MySQL` |
-| **🧠 RAG Agent — Grounded LLM Answers** | Retrieval-augmented generation pipeline for generating accurate, grounded answers over custom documents using vector similarity search. | `Python`, `pgvector`, `PostgreSQL`, `LLM APIs` |
+| **🧠 DocDrift — RAG Documentation Intelligence** | Retrieval-augmented pipeline that compares project documentation against code changes using embeddings and vector search to flag drift and stale docs. | `Python`, `pgvector`, `PostgreSQL`, `LLM APIs` |
 | **💾 Redis-Style Key-Value Store** | A high-performance, in-memory key-value store built from scratch, covering networking, command parsing, and core data structures. | `C++`, `Sockets`, `Algorithms`, `Data Structures` |
-| **🖼️ Image Transformation API** | An asynchronous, job-based REST API for image processing, complete with a full automated test suite. | `FastAPI`, `Pillow`, `Python`, `pytest` |
+| **🖥️ Linux System Monitor** | Terminal system monitor reading procfs with a live ncurses UI for CPU, memory and processes. | `C++`, `procfs`, `ncurses`, `Linux` |
 
 <br />
 
@@ -125,7 +125,8 @@
 </p>
 
 ```text
-🔭 Current Focus    ▶ MockUp AI: Enhancing the user feedback loop & integration
+🔭 Current Focus    ▶ MockUp AI platform & its iOS companion, MockUp Mini
 🌱 Actively Learning ▶ Advanced Distributed Systems & System Design at Scale
 🧑‍🏫 Teaching TA     ▶ Cloud Computing: Guiding students on Kubernetes & AWS
 🎯 Professional Goal ▶ Securing a New Grad Software Engineer role for 2026
+```
